@@ -1,0 +1,145 @@
+[
+    {
+        "id":  "kw_1779703407.27475",
+        "scrapeSuccessful":  false,
+        "keyword":  "graphic designer",
+        "topCompetitorsCount":  3,
+        "timestamp":  "2026-05-25T10:03:27.2747525+05:30",
+        "location":  "in",
+        "difficulty":  58,
+        "suggestionsCount":  8,
+        "volume":  25000
+    },
+    {
+        "id":  "kw_1779703383.53217",
+        "scrapeSuccessful":  true,
+        "keyword":  "graphic designer",
+        "topCompetitorsCount":  0,
+        "timestamp":  "2026-05-25T10:03:03.5331635+05:30",
+        "location":  "in",
+        "difficulty":  46,
+        "suggestionsCount":  8,
+        "volume":  27000
+    },
+    {
+        "id":  "kw_1779703000.40258",
+        "scrapeSuccessful":  true,
+        "keyword":  "electricity",
+        "topCompetitorsCount":  0,
+        "timestamp":  "2026-05-25T09:56:40.4025803+05:30",
+        "location":  "in",
+        "difficulty":  45,
+        "suggestionsCount":  16,
+        "volume":  57000
+    },
+    {
+        "id":  "kw_1779702993.32591",
+        "scrapeSuccessful":  true,
+        "keyword":  "electricity",
+        "topCompetitorsCount":  0,
+        "timestamp":  "2026-05-25T09:56:33.3259123+05:30",
+        "location":  "in",
+        "difficulty":  49,
+        "suggestionsCount":  16,
+        "volume":  60000
+    },
+    {
+        "id":  "kw_1779702900.31257",
+        "scrapeSuccessful":  true,
+        "keyword":  "electricity",
+        "topCompetitorsCount":  0,
+        "timestamp":  "2026-05-25T09:55:00.3125727+05:30",
+        "location":  "in",
+        "difficulty":  25,
+        "suggestionsCount":  16,
+        "volume":  57000
+    },
+    {
+        "id":  "kw_1779702748.56977",
+        "scrapeSuccessful":  true,
+        "keyword":  "electrical products greater noida + 3 more (Bulk)",
+        "topCompetitorsCount":  0,
+        "timestamp":  "2026-05-25T09:52:28.5697737+05:30",
+        "location":  "in",
+        "difficulty":  29,
+        "suggestionsCount":  4,
+        "volume":  11000
+    },
+    {
+        "id":  "kw_1779702555.58145",
+        "scrapeSuccessful":  true,
+        "keyword":  "electrical shop greater noida + 4 more (Bulk)",
+        "topCompetitorsCount":  0,
+        "timestamp":  "2026-05-25T09:49:15.5901713+05:30",
+        "location":  "in",
+        "difficulty":  21,
+        "suggestionsCount":  5,
+        "volume":  12000
+    },
+    {
+        "id":  "kw_1779702206.55714",
+        "scrapeSuccessful":  true,
+        "keyword":  "electrical contractor greater noida electrical shop greater noida cctv installation greater noida electrical maintenance services wholesale electrical supplier electrical wiring contractor electrical material supplier commercial electrical contractor electrical hardware store electrical amc services security camera installation best electrical supplier noida",
+        "topCompetitorsCount":  0,
+        "timestamp":  "2026-05-25T09:43:26.5571397+05:30",
+        "location":  "in",
+        "difficulty":  17,
+        "suggestionsCount":  8,
+        "volume":  3400
+    },
+    {
+        "id":  "kw_1779702110.88919",
+        "scrapeSuccessful":  true,
+        "keyword":  "electrical contractor greater noida",
+        "topCompetitorsCount":  0,
+        "timestamp":  "2026-05-25T09:41:50.8891928+05:30",
+        "location":  "in",
+        "difficulty":  26,
+        "suggestionsCount":  6,
+        "volume":  11000
+    },
+    {
+        "id":  "kw_1779702045.81917",
+        "scrapeSuccessful":  true,
+        "keyword":  "contractor",
+        "topCompetitorsCount":  0,
+        "timestamp":  "2026-05-25T09:40:45.8271658+05:30",
+        "location":  "in",
+        "difficulty":  43,
+        "suggestionsCount":  16,
+        "volume":  54000
+    },
+    {
+        "id":  "kw_1779659567.02431",
+        "scrapeSuccessful":  true,
+        "keyword":  "electrical products greater noida",
+        "topCompetitorsCount":  0,
+        "timestamp":  "2026-05-24T21:52:47.0253121+05:30",
+        "location":  "in",
+        "difficulty":  23,
+        "suggestionsCount":  6,
+        "volume":  10000
+    },
+    {
+        "id":  "kw_1779659544.50302",
+        "scrapeSuccessful":  true,
+        "keyword":  "electrical products greater noida",
+        "topCompetitorsCount":  0,
+        "timestamp":  "2026-05-24T21:52:24.5030216+05:30",
+        "location":  "in",
+        "difficulty":  20,
+        "suggestionsCount":  6,
+        "volume":  11000
+    },
+    {
+        "id":  "kw_1779659536.74995",
+        "scrapeSuccessful":  true,
+        "keyword":  "electrical products greater noida",
+        "topCompetitorsCount":  0,
+        "timestamp":  "2026-05-24T21:52:16.7549407+05:30",
+        "location":  "in",
+        "difficulty":  25,
+        "suggestionsCount":  6,
+        "volume":  11000
+    }
+]
